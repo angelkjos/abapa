@@ -6,9 +6,9 @@ The game as played in Ghana is a social event and is commonly played on the stre
 ###### Start Playing now by downloading the game from the Apple App-Store or Google PlayStore.
 
 ##### Game Screenshots
-![iOS Screenshot 1](https://github.com/angelkjos/oware-support/blob/master/ios_1.jpg?raw=true)
-![iOS Screenshot 2](https://github.com/angelkjos/oware-support/blob/master/ios_2.jpg?raw=true)
-![iOS Screenshot 2](https://github.com/angelkjos/oware-support/blob/master/ios_3.jpg?raw=true)
+![iOS Screenshot 1](https://github.com/angelkjos/oware-support/blob/master/ios_1.png?raw=true)
+![iOS Screenshot 2](https://github.com/angelkjos/oware-support/blob/master/ios_2.png?raw=true)
+![iOS Screenshot 2](https://github.com/angelkjos/oware-support/blob/master/ios_3.png?raw=true)
 
 
 [Terms and Conditions](http://angelkjos.github.io/projects/oware/OwareTermsandConditions.html)
