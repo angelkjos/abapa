@@ -3,7 +3,8 @@ Practice against the computer, or challenge your friends, all while getting a br
 
 The game as played in Ghana is a social event and is commonly played on the street. Heckling, banging the fist and mocking are all allowed. The game is also used in education among the Asanti children for the development of maths skills.
 
-###### Start Playing now by downloading the game from the Apple App-Store or Google PlayStore.
+#### Start Playing now by downloading the game from the Apple App-Store or Google PlayStore.
+
 
 ##### Game Screenshots
 Welcome Screen:
