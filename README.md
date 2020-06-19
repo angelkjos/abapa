@@ -5,6 +5,10 @@ The game as played in Ghana is a social event and is commonly played on the stre
 
 #### START PLAYING NOW
 
+<a href='https://apps.apple.com/us/app/id1518084130'><img alt='Get it on Google Play' src='https://angelkjos.github.io/abapa/appstore-logo.svg' height="50"/></a>
+<br /><br />
+<a href='https://play.google.com/store/apps/details?id=com.kjos.oware&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/static/images/badges/en_badge_web_generic.png' height="65"/></a>
+
 
 
 ---
