@@ -8,15 +8,15 @@ The game as played in Ghana is a social event and is commonly played on the stre
 
 ##### Game Screenshots
 Welcome Screen:
-![iOS Screenshot 1](https://github.com/angelkjos/oware-support/blob/master/ios_1.jpg?raw=true)
+![iOS Screenshot 1](https://github.com/angelkjos/abapa/ios_1.jpg)
 
 How to Play:
-![iOS Screenshot 2](https://github.com/angelkjos/oware-support/blob/master/ios_2.PNG?raw=true)
+![iOS Screenshot 2](https://github.com/angelkjos/abapa/ios_2.PNG)
 
 Active Game:
-![iOS Screenshot 2](https://github.com/angelkjos/oware-support/blob/master/ios_3.PNG?raw=true)
+![iOS Screenshot 2](https://github.com/angelkjos/abapa/ios_3.PNG)
 
 
-[Terms and Conditions](http://angelkjos.github.io/projects/oware/OwareTermsandConditions.html)
+[Terms and Conditions](https://angelkjos.github.io/abapa/oware_tos.html)
 
 For any questions or feedback, please contact us on: <abapa.info@gmail.com>
